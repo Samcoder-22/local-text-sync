@@ -25,9 +25,10 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn some
+      <p className="read-the-docs text-primary hover:text-red-500">
+        Click on the Vite and React logos to learn some some
       </p>
+      <p className='bg-blue-700 hover:bg-red-200'> Sample Text</p>
     </>
   )
 }
